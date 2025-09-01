@@ -925,5 +925,4 @@
     });
   </script>
 
-</body>
-</html>      
+</body>   
